@@ -1,5 +1,10 @@
 ## Hi there 👋
 
+Jestem Zuzia! Jestem studentką pierwszego roku cyberbezpieczeństwa na AGH. 
+
+ 🔭 I’m currently working on living throught year :D
+ 😄 Pronouns: all/in
+⚡ Fun fact: I like playing TFT B) 
 <!--
 **zkosek/zkosek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
