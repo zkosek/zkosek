@@ -1,4 +1,4 @@
-## Hi there 👋
+## Cześć 👋
 
 Jestem Zuzia! Jestem studentką pierwszego roku cyberbezpieczeństwa na AGH. 
 
