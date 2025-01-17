@@ -7,6 +7,12 @@ Jestem Zuzia! Jestem studentką pierwszego roku cyberbezpieczeństwa na AGH.
 ⚡ Fun fact: I like playing TFT B) 
 
 https://zkosek.github.io
+
+## Fork repozytorium
+https://github.com/zkosek/FitDiT
+
+## Strona artykułu
+https://paperswithcode.com/paper/fitdit-advancing-the-authentic-garment
 <!--
 **zkosek/zkosek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
